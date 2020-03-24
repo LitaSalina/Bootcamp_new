@@ -118,16 +118,14 @@ footer {
 .carousel-item img {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 100px;
     width: 40%;
 }
 
-.carousel-inner {
-    margin-left: 350px;
-}
 
 #carouselExampleIndicators {
     content: center;
+    margin-left: 350px;
 }
 
 /*humor*/
