@@ -122,6 +122,10 @@ footer {
     width: 40%;
 }
 
+.carousel-inner {
+    margin-left: 350px;
+}
+
 #carouselExampleIndicators {
     content: center;
 }
